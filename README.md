@@ -1,2 +1,0 @@
-# CICD
-Tasking for CICD
